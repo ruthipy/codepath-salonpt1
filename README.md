@@ -1,1 +1,1 @@
-# codepath-salonpt1
+# salon-app-project
